@@ -1,0 +1,10 @@
+.avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0px 8px 20px;
+  border: 4px #5C9EAD;
+  margin: 40px;
+}
+

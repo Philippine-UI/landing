@@ -1,0 +1,28 @@
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.card{
+	padding: 20px;
+	width: 300px;
+	display: flex;
+	margin: 10px;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0.5px 0.6px 05px ;
+	border-radius: 6px;
+	flex-basis: 280px;
+	flex-grow: 1;
+	}
+
+.card img {
+	width: 200px;
+	border-radius: 6px;
+	}
+
+.card h4{
+	margin-left: 10px;
+}
+
