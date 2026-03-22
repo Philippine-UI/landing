@@ -9,6 +9,7 @@
   /* For a screen < 960px, this CSS will be read */
   .container {
     width: 700px;
+	text-align: center;
   	}
 	}
 
@@ -16,6 +17,7 @@
   /* For a screen < 720px, this CSS will be read */
   .container {
     width: 500px;
+	text-align: center;
   	}
 	}
 	
@@ -23,5 +25,6 @@
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+	text-align: center;
   }
   }
